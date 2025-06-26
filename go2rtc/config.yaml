@@ -7,7 +7,7 @@ arch: [amd64, aarch64, i386, armv7]
 
 # https://developers.home-assistant.io/docs/add-ons/configuration
 version: 1.9.9
-slug: go2rtc
+slug: go2rtc_dev
 init: false
 startup: system
 host_network: true
